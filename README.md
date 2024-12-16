@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/9d73a233-a0e4-4d30-9b98-d6c0cd7177f2
 ChatGPT was utilized during this project in order to set up the screens, navigation, and other cosmetic details. For a more thorough explanation please reach out to any group member to discuss our application. Widgets including the slider, toggle, and dropdown were also taken from the flutter documentation, which is cited in our works cited. 
 
 Including but not limited to:
-1. Setting up Navigation bar on the bottom, and adding additional icons.
+1. Setting up Navigation bar on the bottom and its according functionality, and adding additional icons.
 2. Increasing icon sizes.
 3. Increasing text sizes.
 4. Using Align() in the Go Starting, Home, Planet, Profile, Search, Select Route pages.
