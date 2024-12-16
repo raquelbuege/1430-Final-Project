@@ -43,5 +43,6 @@ ChatGPT usage included but is not limited to:
 5. Adjusting the dropdown widget.
 6. Making a Google Map widget that's reusable in the different pages. 
 7. Padding of widgets.
-8. Making a Divider widget for the Starting Route Page. 
+8. Making a Divider widget for the Starting Route Page.
+9. Used to set up the Search Route and Selecting Route screens.
 
