@@ -6,7 +6,7 @@ It also focuses on accessibility to users and the positive environmental impacts
 ## Getting Started
 
 1. Obtain a [Google Cloud API Key ](https://cloud.google.com/gcp?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-b-dr-1707554&utm_content=text-ad-none-any-DEV_c-CRE_665735450771-ADGP_Hybrid+%7C+BKWS+-+BRO+%7C+Txt-Top-Google+Cloud-KWID_43700081237254618-kwd-4406040420&utm_term=KW_google%20cloud-ST_google+cloud&gad_source=1&gclid=Cj0KCQiAvP-6BhDyARIsAJ3uv7YQ_He-z6o9qLupyUj0u5WgScfr3C7rudKdj34tstkBswomDUJbl48aAsRCEALw_wcB&gclsrc=aw.ds) with Android SDK map permissions. 
-2. Paste the key into the according section below in the android/app/src/main/AndroidManifest.xml file under the application tag.
+2. Uncomment and paste the API key into the according section below in the android/app/src/main/AndroidManifest.xml file under the application tag.
 
    ```<meta-data android:name="com.google.android.geo.API_KEY" android:value="<insert API key here>"/>```
 
