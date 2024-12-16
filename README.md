@@ -1,6 +1,6 @@
 ## Bus Tracker Application
 
-This application focuses to help individuals navigate Pittsburgh's bus lines meanwhile offering a simplistic but feature rich interface. 
+This application aims to help individuals navigate Pittsburgh's bus lines meanwhile offering a simplistic but feature rich interface. 
 It also offers accessibile options to users and information about positive environmental impacts of using public transport. 
 
 ## Getting Started
